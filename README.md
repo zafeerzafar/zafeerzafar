@@ -28,5 +28,5 @@ C • SystemVerilog • FPGA • STM32 • ESP32 • FreeRTOS • Vivado • Vit
 
 ## Connect
 
-📧 zafeerzafat2002@gmail.com  
+📧 Email: zafeerzafat2002@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/zafeer-zafar-227b56228/?originalSubdomain=pk
