@@ -24,12 +24,11 @@ Currently working on:
 
 ## Tech Stack
 
-C • SystemVerilog • FPGA • STM32 • ESP32 • FreeRTOS • Vivado • Vitis • PyTorch • TensorFlow Lite
+C • SystemVerilog • FPGA • STM32 • ESP32 • FreeRTOS • Vivado • Vitis • PyTorch • TensorFlow Lite • EasyEDA • KiCad
 
 ## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafeer-zafar-227b56228/?originalSubdomain=pk)
 
-📧 Email: zafeerzafat2002@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/zafeer-zafar-227b56228/?originalSubdomain=pk
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eb36edc875a8560a)
 
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eb36edc875a8560a) 
-https://www.upwork.com/freelancers/~01eb36edc875a8560a
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zafeerzafar0@gmail.com)
