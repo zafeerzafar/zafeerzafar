@@ -30,4 +30,6 @@ C • SystemVerilog • FPGA • STM32 • ESP32 • FreeRTOS • Vivado • Vit
 
 📧 Email: zafeerzafat2002@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/zafeer-zafar-227b56228/?originalSubdomain=pk
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eb36edc875a8560a) https://www.upwork.com/freelancers/~01eb36edc875a8560a
+
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01eb36edc875a8560a) 
+https://www.upwork.com/freelancers/~01eb36edc875a8560a
